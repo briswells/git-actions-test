@@ -1,4 +1,4 @@
 # git-actions-test
 Test for Git Actions 
 
-![example workflow](https://github.com/briswells/git-actions-test/blob/main/.github/workflows/c-cpp.yml/badge.svg)
+[![Build C++](https://github.com/briswells/git-actions-test/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/briswells/git-actions-test/actions/workflows/c-cpp.yml)
